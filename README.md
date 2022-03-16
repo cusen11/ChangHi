@@ -1,4 +1,4 @@
-#Giới thiệu công cụ
+## Giới thiệu công cụ
 
 ```- Tool Box ( Thanh công cụ )
 - Option( Tùy chỉnh ) R-click => reset all tool 
