@@ -7,3 +7,6 @@
 - Taskbar(Thanh tác vụ)
 - Status
 - Ruler ( Thước )
+
+## Bài 2: Thanh Công Cụ Và Workspace
+``` Edit -> Menu -> Edit -> Chọn màu cho dễ nhìn
