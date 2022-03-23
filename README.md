@@ -15,3 +15,5 @@
   Edit -> Menu -> Edit -> Chọn màu cho dễ nhìn
 
 ```
+
+## Bài 3: Các phím tắt
